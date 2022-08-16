@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'River',
 
   // open graph metadata (optional)
-  description: 'River's Blog',
+  description: 'River Blog',
 
   // social usernames (optional)
 //   twitter: 'transitive_bs',
