@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'fdd34d2e690b423e82c734f6dd758380' ,
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'River',
