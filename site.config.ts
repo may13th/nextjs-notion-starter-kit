@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: 'fdd34d2e690b423e82c734f6dd758380' ,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'River',
+  domain: 'osier-river',
   author: 'River',
 
   // open graph metadata (optional)
