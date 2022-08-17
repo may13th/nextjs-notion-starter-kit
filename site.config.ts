@@ -52,14 +52,14 @@ export default siteConfig({
   // important pages
 //   navigationStyle: 'default'
   navigationStyle: 'custom',
-//   navigationLinks: [
-//     {
-//       title: 'About',
-//       pageId: '7934ca563ac94179a7baaf286e8a038a'
-//     },
-//     {
-//       title: 'Contact',
-//       pageId: 'a6a5bc37039846ecb69503d7957d4ed4'
-//     }
-//   ]
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: '7934ca563ac94179a7baaf286e8a038a'
+    },
+    {
+      title: 'Contact',
+      pageId: 'a6a5bc37039846ecb69503d7957d4ed4'
+    }
+  ]
 })
