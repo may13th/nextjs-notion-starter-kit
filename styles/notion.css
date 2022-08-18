@@ -385,24 +385,28 @@
 
 /* About and contact's DIV */
 .notion-column.notion-block-92078ebbab4240d5a5be7a19a1966b7d{
-  font-size: large;
-  height: 200px;
+/*   font-size: large;
+  height: 200px; */
 }
 
 /* About and contact's a */
 a.notion-page-link.notion-block-d7a02260bb204b8eb8f7231afbbecef6{
-  padding-left: 35%;
-  height: calc((100% - (1 * min(32px, 4vw))) * 0.5);
+/*   padding-left: 35%;
+  height: calc((100% - (1 * min(32px, 4vw))) * 0.5); */
+    justify-content: center;
+    padding: 2em;
 }
 
 /* About and contact's DIV */
 .notion-column.notion-block-8eb886ef38a7427ca469b31eb6097de7{
-  font-size: large;
-  height: 200px;
+/*   font-size: large;
+  height: 200px; */
 }
 
 /* About and contact's a */
 a.notion-page-link.notion-block-a52a8b30f2f34eff877cf92edcc4c4ec{
-  padding-left: 35%;
-  height: calc((100% - (1 * min(32px, 4vw))) * 0.5);
+/*   padding-left: 35%;
+  height: calc((100% - (1 * min(32px, 4vw))) * 0.5); */
+    justify-content: center;
+    padding: 2em;
 }
