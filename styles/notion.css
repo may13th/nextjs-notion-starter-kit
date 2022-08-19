@@ -420,3 +420,10 @@ a.notion-page-link.notion-block-7467dc135ab340daacf9fcef41b962a0{
 span.notion-property.notion-property-title {
     font-size: small;
 }
+
+
+/* pure img */
+img.medium-zoom-image {
+    border-radius: 40px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
