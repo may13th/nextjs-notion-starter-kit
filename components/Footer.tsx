@@ -73,6 +73,18 @@ export const FooterImpl: React.FC = () => {
             <FaZhihu />
           </a>
         )}
+        
+        {config.zhihu2 && (
+          <a
+            className={styles.zhihu}
+            href={`https://zhihu.com/people/${config.zhihu2}`}
+            title={`Zhihu @${config.zhihu2}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FaZhihu />
+          </a>
+        )}
 
         {config.github && (
           <a
