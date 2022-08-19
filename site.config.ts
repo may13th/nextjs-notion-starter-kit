@@ -20,6 +20,7 @@ export default siteConfig({
 //   twitter: 'transitive_bs',
   github: 'Shydlock',
   zhihu: 'bing-yu-18-12',
+  zhihu2: 'lu-lu-lu-80-57',
 //   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
