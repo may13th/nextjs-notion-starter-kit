@@ -83,7 +83,7 @@ export const FooterImpl: React.FC = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <SiZhihu />
+            <AiFillZhihuCircle />
           </a>
         )}
 
