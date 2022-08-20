@@ -27,7 +27,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://cloud.lemen.net.cn/notion-pic/May13th/touxiang3.png',
+  defaultPageIcon: 'https://lemen.oss-cn-beijing.aliyuncs.com/notion-pic/May13th/touxiang3.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
