@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
-import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
+import { SiZhihu } from '@react-icons/all-files/si/SiZhihu'
 import { AiFillZhihuCircle } from '@react-icons/all-files/ai/AiFillZhihuCircle'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
@@ -71,7 +71,7 @@ export const FooterImpl: React.FC = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FaZhihu />
+            <SiZhihu />
           </a>
         )}
         
