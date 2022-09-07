@@ -77,7 +77,7 @@ export const FooterImpl: React.FC = () => {
           <a
             className={styles.rss}
             href={`https://follow.it/${config.rss}`}
-            title={`Rss @${config.rss}`}
+            title={`RSS @${config.rss}`}
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -136,8 +136,8 @@ export const FooterImpl: React.FC = () => {
         {config.homepage && (
           <a
             className={styles.homepage}
-            href={`https://github.com/${config.homepage}`}
-            title={`GitHub @${config.homepage}`}
+            href={`${config.homepage}`}
+            title={`HomePage @${config.homepage}`}
             target='_blank'
             rel='noopener noreferrer'
           >
