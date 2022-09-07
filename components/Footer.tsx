@@ -38,7 +38,7 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.copyright}>Copyright 2022 {config.author}
+      <div className={styles.copyright}>Copyright 2022 {config.author}.
       
          <a className={styles.rssA} href="https://follow.it/may13th?pub"> RSS </a>
         support.
