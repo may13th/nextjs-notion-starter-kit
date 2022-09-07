@@ -3,7 +3,7 @@ import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { AiFillZhihuSquare } from '@react-icons/all-files/ai/AiFillZhihuSquare'
 import { AiFillZhihuCircle } from '@react-icons/all-files/ai/AiFillZhihuCircle'
 import { FaWeibo } from '@react-icons/all-files/fa/FaWeibo'
-import { HiRss } from '@react-icons/all-files/hi2/HiRss'
+import { HiOutlineRss } from '@react-icons/all-files/hi2/HiOutlineRss'
 import { RiWeiboLine } from '@react-icons/all-files/ri/RiWeiboLine'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FcHome } from '@react-icons/all-files/fc/FcHome'
@@ -81,7 +81,7 @@ export const FooterImpl: React.FC = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <HiRss />
+            <HiOutlineRss />
           </a>
         )}
         
