@@ -20,6 +20,7 @@ export interface SiteConfig {
   weibo?: string
   weibo2?: string
   rss?: string
+  homepage?: string
 
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
