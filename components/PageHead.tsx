@@ -24,6 +24,7 @@ export const PageHead: React.FC<
     <Head>
       <meta charSet='utf-8' />
       <meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
+      <meta name="follow.it-verification-code" content="uBH5Pw2QZP75hBn1BUY1"/>
       <meta
         name='viewport'
         content='width=device-width, initial-scale=1, shrink-to-fit=no'
