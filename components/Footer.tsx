@@ -2,6 +2,7 @@ import * as React from 'react'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { AiFillZhihuSquare } from '@react-icons/all-files/ai/AiFillZhihuSquare'
 import { AiFillZhihuCircle } from '@react-icons/all-files/ai/AiFillZhihuCircle'
+import { FaWeibo } from '@react-icons/all-files/fa/FaWeibo'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
 import { FaEnvelopeOpenText } from '@react-icons/all-files/fa/FaEnvelopeOpenText'
@@ -60,6 +61,18 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <FaTwitter />
+          </a>
+        )}
+        
+        {config.weibo && (
+          <a
+            className={styles.weibo}
+            href={`https://weibo.com/u/${config.weibo}`}
+            title={`Weibo @${config.weibo}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FaWeibo />
           </a>
         )}
 
