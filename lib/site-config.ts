@@ -18,6 +18,7 @@ export interface SiteConfig {
   zhihu?: string
   zhihu2?: string
   weibo?: string
+  weibo2?: string
 
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
