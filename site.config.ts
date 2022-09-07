@@ -19,8 +19,10 @@ export default siteConfig({
   // social usernames (optional)
 //   twitter: 'transitive_bs',
   github: 'Shydlock',
-  zhihu: 'bing-yu-18-12',
-  zhihu2: 'lu-lu-lu-80-57',
+//   zhihu: 'bing-yu-18-12',
+//   zhihu2: 'lu-lu-lu-80-57',
+  weibo: '5264649255',
+  weibo2: '3562100090',
 //   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
