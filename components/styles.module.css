@@ -93,6 +93,10 @@
   color: #2795e9;
 }
 
+.weibo:hover {
+  color: #990000;
+}
+
 .zhihu:hover {
   color: #0066ff;
 }
