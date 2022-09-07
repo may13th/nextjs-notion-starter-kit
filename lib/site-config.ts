@@ -17,6 +17,7 @@ export interface SiteConfig {
   youtube?: string
   zhihu?: string
   zhihu2?: string
+  weibo?: string
 
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
