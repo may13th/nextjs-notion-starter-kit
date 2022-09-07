@@ -112,6 +112,14 @@
   color: #2795e9;
 }
 
+.homepage:hover {
+  color: #FF6666;
+}
+
+.rss:hover {
+  color: #009966;
+}
+
 .weibo:hover {
   color: #990000;
 }
