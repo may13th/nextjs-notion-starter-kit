@@ -23,6 +23,7 @@ export default siteConfig({
 //   zhihu2: 'lu-lu-lu-80-57',
   weibo: '5264649255',
   weibo2: '3562100090',
+  rss: 'may13th?leanpub',
 //   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
