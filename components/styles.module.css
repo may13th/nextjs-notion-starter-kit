@@ -4,6 +4,19 @@
   }
 }
 
+
+.hitsA{
+/*   position: absolute; */
+  margin-right: -100px;
+}
+
+.hits{
+  opacity: 0.75;
+/*   width: 25%; */
+  margin-top: -2px; 
+  margin-left: 10px;
+}
+
 .container {
   position: absolute;
   top: 0;
