@@ -3,6 +3,7 @@ import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { AiFillZhihuSquare } from '@react-icons/all-files/ai/AiFillZhihuSquare'
 import { AiFillZhihuCircle } from '@react-icons/all-files/ai/AiFillZhihuCircle'
 import { FaWeibo } from '@react-icons/all-files/fa/FaWeibo'
+import { HiRss } from '@react-icons/all-files/hi/HiRss'
 import { RiWeiboLine } from '@react-icons/all-files/ri/RiWeiboLine'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
@@ -68,6 +69,18 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <FaTwitter />
+          </a>
+        )}
+        
+        {config.rss && (
+          <a
+            className={styles.rss}
+            href={`https://follow.it/${config.rss}`}
+            title={`Rss @${config.rss}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <HiRss />
           </a>
         )}
         
