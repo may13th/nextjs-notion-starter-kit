@@ -24,6 +24,7 @@ export default siteConfig({
   weibo: '5264649255',
   weibo2: '3562100090',
   rss: 'may13th?leanpub',
+  homepage: 'https://osier-river.notion.site/May13th-6fb673db682746cfa1ff68ca9b259186',
 //   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
