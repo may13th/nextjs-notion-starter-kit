@@ -41,7 +41,7 @@ export const FooterImpl: React.FC = () => {
       <div className={styles.copyright}>Copyright 2022 {config.author}.
       
          <a className={styles.rssA} href="https://follow.it/may13th?pub"> RSS </a>
-        support.
+        SUP.
         
         <div> 
           <a className={styles.hitsA} href="#"><img className={styles.hits} src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.may13th.love&count_bg=%23C5C6C4&title_bg=%23F55252&icon=&icon_color=%23292323&title=hits&edge_flat=false"/></a>
