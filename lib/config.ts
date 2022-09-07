@@ -62,6 +62,7 @@ export const newsletter: string | null = getSiteConfig('newsletter', null)
 export const zhihu: string | null = getSiteConfig('zhihu', null)
 export const zhihu2: string | null = getSiteConfig('zhihu2', null)
 export const weibo: string | null = getSiteConfig('weibo', null)
+export const weibo2: string | null = getSiteConfig('weibo2', null)
 
 // default notion values for site-wide consistency (optional; may be overridden on a per-page basis)
 export const defaultPageIcon: string | null = getSiteConfig(
