@@ -6,6 +6,7 @@ import { FaWeibo } from '@react-icons/all-files/fa/FaWeibo'
 import { HiRss } from '@react-icons/all-files/hi/HiRss'
 import { RiWeiboLine } from '@react-icons/all-files/ri/RiWeiboLine'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
+import { FcHome } from '@react-icons/all-files/fc/FcHome'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
 import { FaEnvelopeOpenText } from '@react-icons/all-files/fa/FaEnvelopeOpenText'
 import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
@@ -129,6 +130,18 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <AiFillZhihuCircle />
+          </a>
+        )}
+        
+        {config.homepage && (
+          <a
+            className={styles.homepage}
+            href={`https://github.com/${config.homepage}`}
+            title={`GitHub @${config.homepage}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FcHome />
           </a>
         )}
 
