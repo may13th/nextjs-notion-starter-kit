@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
 //   twitter: 'transitive_bs',
-  github: 'Shydlock',
+  //github: 'Shydlock',
 //   zhihu: 'bing-yu-18-12',
 //   zhihu2: 'lu-lu-lu-80-57',
   weibo: '5264649255',
